@@ -1,0 +1,31 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csprojResolveAssemblyReference.cache
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.AssemblyReference.cache
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.cache
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.CoreCompileInputs.cache
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\IT\Downloads\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+C:\Users\IT\Desktop\Game\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb
